@@ -34,4 +34,4 @@ Built using only NumPy with zero deep learning libraries!
 
 ## Files
 
-Day1_CNN_From_Scratch_NumPy.ipynb — complete notebook with explanations and visualizations
+Day1_CNN_From_Scratch_NumPy.ipynb  complete notebook with explanations and visualizations
